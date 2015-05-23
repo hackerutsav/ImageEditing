@@ -1,4 +1,4 @@
-package com.example.imageediting;
+package com.example.image6editor;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
@@ -13,6 +13,7 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

@@ -1,4 +1,4 @@
-package com.example.imageediting;
+package com.example.image6editor;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
